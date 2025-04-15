@@ -1,4 +1,4 @@
-import MenuList from "../../components/MenuList";
+import MenuList from "../components/MenuList";
 
 const Home = () => {
   return (
